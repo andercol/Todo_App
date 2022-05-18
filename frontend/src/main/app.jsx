@@ -5,6 +5,7 @@ import { BrowserRouter, HashRouter  } from "react-router-dom"
 
 require('bootstrap/dist/css/bootstrap.min.css')
 require('font-awesome/css/font-awesome.min.css')
+import '../template/custom.css'
 
 
 const App = props => (
